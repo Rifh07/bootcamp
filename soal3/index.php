@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Membuat Pola</title>
+</head>
+<body>
+    <form method="POST" action="">
+    <fieldset>
+        <legend>Membuat Pola</legend>
+        <table border="1px solid">
+            <tr>
+                <td>D</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>S</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>U</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Y</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>M</td>
+                <td></td>
+                <td></td>
+                <td>A</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>B</td>
+                <td>W</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>B</td>
+                <td>W</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>M</td>
+                <td></td>
+                <td></td>
+                <td>A</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>U</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Y</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>D</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>S</td>
+            </tr>
+        </table>
+    </fieldset>
+</body>
+</html>
